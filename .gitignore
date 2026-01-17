@@ -1,0 +1,16 @@
+# Virtual env
+myenv/
+venv/
+
+# ML models
+*.h5
+*.pt
+*.pth
+
+# Uploads
+uploads/
+static/uploads/
+
+# Cache
+__pycache__/
+*.pyc
