@@ -91,6 +91,14 @@ BrainTumorAI provides an automated AI-driven solution that:
 - Visual AI-assisted diagnosis output
 
 ---
+🌐 Live Demo
+
+🚀 Try BrainTumorAI Live
+Experience real-time AI-powered brain tumor detection directly in your browser:
+
+🔗 Live Application:
+👉 https://braintumor-ai.onrender.com
+---
 
 ## 🚀 Quick Start — Clone & Run
 
@@ -132,3 +140,4 @@ Contributions are welcome! To contribute:
 3. **Commit** your changes (`git commit -m 'Add some feature'`)
 4. **Open** a Pull Request
 ---
+
